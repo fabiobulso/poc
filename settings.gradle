@@ -1,0 +1,5 @@
+rootProject.name = 'jigsaw-hexagonal-architecture'
+include 'domain'
+include 'contract'
+include 'infrastructure'
+
